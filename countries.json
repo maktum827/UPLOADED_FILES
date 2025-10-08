@@ -1,0 +1,425 @@
+[
+  {
+    "code": "AF",
+    "label": "Afghanistan",
+    "phone": "93",
+    "currency": "AFN",
+    "symbol": "؋",
+    "timezone": "Asia/Kabul",
+    "utcOffset": "+04:30"
+  },
+  {
+    "code": "AM",
+    "label": "Armenia",
+    "phone": "374",
+    "currency": "AMD",
+    "symbol": "֏",
+    "timezone": "Asia/Yerevan",
+    "utcOffset": "+04:00"
+  },
+  {
+    "code": "AZ",
+    "label": "Azerbaijan",
+    "phone": "994",
+    "currency": "AZN",
+    "symbol": "₼",
+    "timezone": "Asia/Baku",
+    "utcOffset": "+04:00"
+  },
+  {
+    "code": "BH",
+    "label": "Bahrain",
+    "phone": "973",
+    "currency": "BHD",
+    "symbol": ".د.ب",
+    "timezone": "Asia/Bahrain",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "BD",
+    "label": "Bangladesh",
+    "phone": "880",
+    "currency": "BDT",
+    "symbol": "৳",
+    "timezone": "Asia/Dhaka",
+    "utcOffset": "+06:00"
+  },
+  {
+    "code": "BT",
+    "label": "Bhutan",
+    "phone": "975",
+    "currency": "BTN",
+    "symbol": "Nu.",
+    "timezone": "Asia/Thimphu",
+    "utcOffset": "+06:00"
+  },
+  {
+    "code": "BN",
+    "label": "Brunei Darussalam",
+    "phone": "673",
+    "currency": "BND",
+    "symbol": "$",
+    "timezone": "Asia/Brunei",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "KH",
+    "label": "Cambodia",
+    "phone": "855",
+    "currency": "KHR",
+    "symbol": "៛",
+    "timezone": "Asia/Phnom_Penh",
+    "utcOffset": "+07:00"
+  },
+  {
+    "code": "CN",
+    "label": "China",
+    "phone": "86",
+    "currency": "CNY",
+    "symbol": "¥",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "GE",
+    "label": "Georgia",
+    "phone": "995",
+    "currency": "GEL",
+    "symbol": "₾",
+    "timezone": "Asia/Tbilisi",
+    "utcOffset": "+04:00"
+  },
+  {
+    "code": "IN",
+    "label": "India",
+    "phone": "91",
+    "currency": "INR",
+    "symbol": "₹",
+    "timezone": "Asia/Kolkata",
+    "utcOffset": "+05:30"
+  },
+  {
+    "code": "ID",
+    "label": "Indonesia",
+    "phone": "62",
+    "currency": "IDR",
+    "symbol": "Rp",
+    "timezone": "Asia/Jakarta",
+    "utcOffset": "+07:00"
+  },
+  {
+    "code": "IR",
+    "label": "Iran",
+    "phone": "98",
+    "currency": "IRR",
+    "symbol": "﷼",
+    "timezone": "Asia/Tehran",
+    "utcOffset": "+03:30"
+  },
+  {
+    "code": "IQ",
+    "label": "Iraq",
+    "phone": "964",
+    "currency": "IQD",
+    "symbol": "ع.د",
+    "timezone": "Asia/Baghdad",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "IL",
+    "label": "Israel",
+    "phone": "972",
+    "currency": "ILS",
+    "symbol": "₪",
+    "timezone": "Asia/Jerusalem",
+    "utcOffset": "+02:00"
+  },
+  {
+    "code": "JP",
+    "label": "Japan",
+    "phone": "81",
+    "currency": "JPY",
+    "symbol": "¥",
+    "timezone": "Asia/Tokyo",
+    "utcOffset": "+09:00"
+  },
+  {
+    "code": "JO",
+    "label": "Jordan",
+    "phone": "962",
+    "currency": "JOD",
+    "symbol": "د.ا",
+    "timezone": "Asia/Amman",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "KZ",
+    "label": "Kazakhstan",
+    "phone": "7",
+    "currency": "KZT",
+    "symbol": "₸",
+    "timezone": "Asia/Almaty",
+    "utcOffset": "+06:00"
+  },
+  {
+    "code": "KW",
+    "label": "Kuwait",
+    "phone": "965",
+    "currency": "KWD",
+    "symbol": "د.ك",
+    "timezone": "Asia/Kuwait",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "KG",
+    "label": "Kyrgyzstan",
+    "phone": "996",
+    "currency": "KGS",
+    "symbol": "лв",
+    "timezone": "Asia/Bishkek",
+    "utcOffset": "+06:00"
+  },
+  {
+    "code": "LA",
+    "label": "Laos",
+    "phone": "856",
+    "currency": "LAK",
+    "symbol": "₭",
+    "timezone": "Asia/Vientiane",
+    "utcOffset": "+07:00"
+  },
+  {
+    "code": "LB",
+    "label": "Lebanon",
+    "phone": "961",
+    "currency": "LBP",
+    "symbol": "ل.ل",
+    "timezone": "Asia/Beirut",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "MY",
+    "label": "Malaysia",
+    "phone": "60",
+    "currency": "MYR",
+    "symbol": "RM",
+    "timezone": "Asia/Kuala_Lumpur",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "MV",
+    "label": "Maldives",
+    "phone": "960",
+    "currency": "MVR",
+    "symbol": "ރ",
+    "timezone": "Indian/Maldives",
+    "utcOffset": "+05:00"
+  },
+  {
+    "code": "MN",
+    "label": "Mongolia",
+    "phone": "976",
+    "currency": "MNT",
+    "symbol": "₮",
+    "timezone": "Asia/Ulaanbaatar",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "MM",
+    "label": "Myanmar",
+    "phone": "95",
+    "currency": "MMK",
+    "symbol": "Ks",
+    "timezone": "Asia/Yangon",
+    "utcOffset": "+06:30"
+  },
+  {
+    "code": "NP",
+    "label": "Nepal",
+    "phone": "977",
+    "currency": "NPR",
+    "symbol": "₨",
+    "timezone": "Asia/Kathmandu",
+    "utcOffset": "+05:45"
+  },
+  {
+    "code": "OM",
+    "label": "Oman",
+    "phone": "968",
+    "currency": "OMR",
+    "symbol": "ر.ع.",
+    "timezone": "Asia/Muscat",
+    "utcOffset": "+04:00"
+  },
+  {
+    "code": "PK",
+    "label": "Pakistan",
+    "phone": "92",
+    "currency": "PKR",
+    "symbol": "₨",
+    "timezone": "Asia/Karachi",
+    "utcOffset": "+05:00"
+  },
+  {
+    "code": "PS",
+    "label": "Palestine",
+    "phone": "970",
+    "currency": "ILS",
+    "symbol": "₪",
+    "timezone": "Asia/Gaza",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "PH",
+    "label": "Philippines",
+    "phone": "63",
+    "currency": "PHP",
+    "symbol": "₱",
+    "timezone": "Asia/Manila",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "QA",
+    "label": "Qatar",
+    "phone": "974",
+    "currency": "QAR",
+    "symbol": "ر.ق",
+    "timezone": "Asia/Qatar",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "SA",
+    "label": "Saudi Arabia",
+    "phone": "966",
+    "currency": "SAR",
+    "symbol": "ر.س",
+    "timezone": "Asia/Riyadh",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "SG",
+    "label": "Singapore",
+    "phone": "65",
+    "currency": "SGD",
+    "symbol": "$",
+    "timezone": "Asia/Singapore",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "KR",
+    "label": "South Korea",
+    "phone": "82",
+    "currency": "KRW",
+    "symbol": "₩",
+    "timezone": "Asia/Seoul",
+    "utcOffset": "+09:00"
+  },
+  {
+    "code": "LK",
+    "label": "Sri Lanka",
+    "phone": "94",
+    "currency": "LKR",
+    "symbol": "₨",
+    "timezone": "Asia/Colombo",
+    "utcOffset": "+05:30"
+  },
+  {
+    "code": "SY",
+    "label": "Syria",
+    "phone": "963",
+    "currency": "SYP",
+    "symbol": "£",
+    "timezone": "Asia/Damascus",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "TW",
+    "label": "Taiwan",
+    "phone": "886",
+    "currency": "TWD",
+    "symbol": "NT$",
+    "timezone": "Asia/Taipei",
+    "utcOffset": "+08:00"
+  },
+  {
+    "code": "TJ",
+    "label": "Tajikistan",
+    "phone": "992",
+    "currency": "TJS",
+    "symbol": "ЅМ",
+    "timezone": "Asia/Dushanbe",
+    "utcOffset": "+05:00"
+  },
+  {
+    "code": "TH",
+    "label": "Thailand",
+    "phone": "66",
+    "currency": "THB",
+    "symbol": "฿",
+    "timezone": "Asia/Bangkok",
+    "utcOffset": "+07:00"
+  },
+  {
+    "code": "TL",
+    "label": "Timor-Leste",
+    "phone": "670",
+    "currency": "USD",
+    "symbol": "$",
+    "timezone": "Asia/Dili",
+    "utcOffset": "+09:00"
+  },
+  {
+    "code": "TR",
+    "label": "Turkey",
+    "phone": "90",
+    "currency": "TRY",
+    "symbol": "₺",
+    "timezone": "Europe/Istanbul",
+    "utcOffset": "+03:00"
+  },
+  {
+    "code": "TM",
+    "label": "Turkmenistan",
+    "phone": "993",
+    "currency": "TMT",
+    "symbol": "m",
+    "timezone": "Asia/Ashgabat",
+    "utcOffset": "+05:00"
+  },
+  {
+    "code": "AE",
+    "label": "United Arab Emirates",
+    "phone": "971",
+    "currency": "AED",
+    "symbol": "د.إ",
+    "timezone": "Asia/Dubai",
+    "utcOffset": "+04:00"
+  },
+  {
+    "code": "UZ",
+    "label": "Uzbekistan",
+    "phone": "998",
+    "currency": "UZS",
+    "symbol": "лв",
+    "timezone": "Asia/Tashkent",
+    "utcOffset": "+05:00"
+  },
+  {
+    "code": "VN",
+    "label": "Vietnam",
+    "phone": "84",
+    "currency": "VND",
+    "symbol": "₫",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "utcOffset": "+07:00"
+  },
+  {
+    "code": "YE",
+    "label": "Yemen",
+    "phone": "967",
+    "currency": "YER",
+    "symbol": "﷼",
+    "timezone": "Asia/Aden",
+    "utcOffset": "+03:00"
+  }
+]
